@@ -31,9 +31,10 @@
 
 Теперь вы готовы перейти к первому уроку, Lesson 1: OK01
 
-    [1]^ For a more complete list of Operating Systems see List of operating systems - Wikipedia, the free encyclopaedia
-    [2]^ I am, of course, simplifying this explanation of ordinary programming, in truth it depends heavily on the language and the machine. For the interested, see Compiler - Wikipedia, the free encyclopedia
-
+   
+    [1]^ Для более полного списка операционных систем см. Список операционных систем - Википедия, бесплатная энциклопедия. 
+    [2]^Я, конечно, упрощаю это объяснение обычного программирования, на самом деле оно сильно зависит от языка и машины. 
+    Для заинтересовавшихся см. Компилятор - Википедия, бесплатная энциклопедия. 
 Обнаружили ошибку? Вы можете помочь этому учебнику на GitHub.
 
 Creative Commons Licence
